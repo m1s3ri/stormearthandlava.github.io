@@ -2,7 +2,10 @@
 
 categories:
 
-- title: General
+- title: Blog
+  url: /blog/index.html
+
+- title: Guide
   subcategories:
     - title: Talents
       url: /guide/general/talents.html
@@ -40,16 +43,16 @@ categories:
 
 
 
-#- title: Mythic+
-# activate this v line if you don't want child elements in the top menu
-#url: /guide/dungeons/general.html
-# subcategories:
+# - title: Mythic+
+# # activate this v line if you don't want child elements in the top menu
+# #url: /guide/dungeons/general.html
+#   subcategories:
 
-#    - title: General Guide
-#      url: /guide/dungeons/general.html
-#    - title: Dungeon1
-#      url: /guide/dungeons/dungeon1.html
-#    - title: Dungeon2
-#      url: /guide/dungeons/dungeon2.html
-#    - title: Dungeon3
-#      url: /guide/dungeons/dungeon2.html
+#     - title: General Guide
+#       url: /guide/dungeons/general.html
+#     - title: Dungeon1
+#       url: /guide/dungeons/dungeon1.html
+#     - title: Dungeon2
+#       url: /guide/dungeons/dungeon2.html
+#     - title: Dungeon3
+#       url: /guide/dungeons/dungeon2.html

@@ -278,3 +278,32 @@ div.skill.lb {
     margin: 0 auto;
     display: block;
 }
+
+#SELCarousel {
+  background-image: url(/assets/img/logos/Ghost\ Wolf\ -\ Banner\ Transparent\ Large.png);
+  background-size: contain;
+  height: 500px;
+}
+.carousel-content {
+  padding-top: 30%;
+  padding-bottom: 20px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.carousel-content h1 {
+  color: $text-color;
+  text-shadow: 0px 0px 2px $background-color;
+}
+.carousel-content a {
+  color: $text-color;
+  text-shadow: 0px 0px 2px $background-color;
+  border-color: $background-color;
+
+  &:hover {
+    border-color: $background-color;
+  }
+}
+.carousel-content img {
+  border: 1px solid $background-color;
+}
+
